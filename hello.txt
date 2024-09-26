@@ -1,0 +1,2 @@
+Hello, xxd-rs!
+An xxd implementation written in Rust 🦀
